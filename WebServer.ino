@@ -5,8 +5,8 @@
 // Instanciação do objeto da classe AsyncWebServer
 AsyncWebServer server(80);
 
-const char* ssid = "AirLAN817-933E";
-const char* password = "AirLAN817";
+const char* ssid = "*********";
+const char* password = "********";
 
 void setup() {
   // put your setup code here, to run once:
